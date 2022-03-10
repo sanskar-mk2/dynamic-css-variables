@@ -1,0 +1,17 @@
+:root {
+    --c1: white;
+    --c2: yellow;
+    --c3: red;
+}
+
+input {
+    background-color: var(--c1);
+}
+
+.empty {
+    background-color: var(--c2);
+}
+
+.error {
+    background-color: var(--c3);
+}
